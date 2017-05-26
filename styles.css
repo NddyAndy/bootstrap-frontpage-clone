@@ -1,0 +1,82 @@
+body {
+    margin: 0;padding: 0;
+}
+.nav-text {
+  color: #0c0910 !important;
+}
+.force-margin {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.jumbotron {
+  background-color: rgb(111, 84, 153) !important;
+  height: 500px;
+  color: #fff;
+}
+.jumbotron h1 {
+  font-size: 100px;
+  border: 1px solid #fff;
+  margin-left: 110px;
+  margin-right: 110px;
+  border-radius: 20px;
+}
+.jumbotron p {
+  font-size: 16px;
+}
+.jumbotron p {
+  font-size: 16px;
+}
+.main-button {
+  background-color: rgb(111, 84, 153);
+  border-color: #fff;
+}
+.main-button:hover {
+  background-color: #fff;
+  border-color: rgb(111, 84, 153);
+  color: rgb(111, 84, 153);
+}
+.body-button {
+  background-color: #fff;
+  border-color: rgb(111, 84, 153)
+}
+.body-button:hover {
+  background-color: rgb(111, 84, 153);
+  border-color: #fff;
+  color: #fff;
+}
+.sizable {
+  margin: 20px auto;
+}
+.line {
+  margin: 15px 500px;
+}
+.dime {
+  opacity: 0.7;
+}
+section {
+  padding-top: 40px;
+}
+footer {
+  background-color: #241b31;
+  color: #fff;
+  height: 150px;
+  width: 100%;
+  margin-top: 20px;
+  padding-top: 30px;
+  margin-bottom: 0 !important;
+}
+footer ul {
+  list-style-type: none;
+  margin:: 0;
+  padding: 0;
+}
+footer ul li {
+  display: inline;
+  padding-right: 20px;
+}
+footer ul li a {
+  color: #fff;
+}
+footer ul li a:hover {
+  color: #fff;
+}
